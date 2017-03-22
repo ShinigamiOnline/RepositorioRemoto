@@ -21,6 +21,9 @@ public class Main {
 		
 		Calculadora c1 = new Calculadora();
 		System.out.println(c1.suma(2, 2));
+		
+		//esto lo he agregado para realizar un merge sin conflicto.
+		int num1= 1;
 	}
 
 }
